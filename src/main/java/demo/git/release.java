@@ -15,6 +15,10 @@ public class release {
 
 
            System.out.println("恢复第6次");
+           System.out.println("测试reset操作");
+
+
+
 
 
 
