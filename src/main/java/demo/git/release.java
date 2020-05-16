@@ -18,11 +18,6 @@ public class release {
            System.out.println("测试reset操作");
 
            System.out.println("测试revert操作");
-           System.out.println("测试revet操作02");
-
-
-
-
 
 
 
